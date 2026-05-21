@@ -1,0 +1,121 @@
+event_id,machine_id,production_line,start_time,duration_minutes,cause,resolved_by,notes
+DT-0001,MACH-004,Line-B,2024-01-05 22:00:00,113,Operator Error,Technician A,Lubricated actuator
+DT-0002,MACH-004,Line-B,2024-01-07 05:00:00,105,Quality Hold,Supervisor,Reset PLC
+DT-0003,MACH-005,Line-B,2024-01-04 13:00:00,219,Power Outage,Technician A,Cleared jam
+DT-0004,MACH-003,Line-C,2024-01-03 12:00:00,47,Scheduled Maintenance,Supervisor,Cleared jam
+DT-0005,MACH-003,Line-C,2024-01-05 23:00:00,130,Mechanical Failure,Supervisor,Recalibrated sensor
+DT-0006,MACH-001,Line-B,2024-01-04 23:00:00,50,Changeover,Supervisor,Recalibrated sensor
+DT-0007,MACH-004,Line-A,2024-01-04 22:00:00,191,Power Outage,Technician B,Awaiting parts
+DT-0008,MACH-001,Line-A,2024-01-05 05:00:00,50,Material Shortage,Auto-Recovery,Cleared jam
+DT-0009,MACH-005,Line-B,2024-01-03 07:00:00,6,Operator Error,Technician A,Reset PLC
+DT-0010,MACH-001,Line-C,2024-01-03 22:00:00,133,Operator Error,Technician A,Recalibrated sensor
+DT-0011,MACH-004,Line-B,2024-01-04 04:00:00,169,Mechanical Failure,Auto-Recovery,Reset PLC
+DT-0012,MACH-005,Line-A,2024-01-07 22:00:00,19,Changeover,Supervisor,Cleared jam
+DT-0013,MACH-002,Line-B,2024-01-06 02:00:00,130,Quality Hold,Technician A,Replaced bearing
+DT-0014,MACH-005,Line-C,2024-01-05 04:00:00,12,Scheduled Maintenance,Technician B,Lubricated actuator
+DT-0015,MACH-001,Line-A,2024-01-02 03:00:00,112,Material Shortage,Technician A,Reset PLC
+DT-0016,MACH-005,Line-B,2024-01-02 06:00:00,224,Changeover,Technician B,Recalibrated sensor
+DT-0017,MACH-001,Line-B,2024-01-07 19:00:00,193,Changeover,Auto-Recovery,Recalibrated sensor
+DT-0018,MACH-005,Line-C,2024-01-03 01:00:00,236,Operator Error,Technician A,Recalibrated sensor
+DT-0019,MACH-001,Line-A,2024-01-05 13:00:00,111,Scheduled Maintenance,Technician B,Recalibrated sensor
+DT-0020,MACH-002,Line-B,2024-01-04 02:00:00,26,Mechanical Failure,Auto-Recovery,Cleared jam
+DT-0021,MACH-005,Line-B,2024-01-03 08:00:00,181,Scheduled Maintenance,Technician A,Reset PLC
+DT-0022,MACH-003,Line-A,2024-01-04 04:00:00,148,Operator Error,Supervisor,Cleared jam
+DT-0023,MACH-004,Line-A,2024-01-02 04:00:00,149,Mechanical Failure,Technician A,Lubricated actuator
+DT-0024,MACH-003,Line-C,2024-01-02 04:00:00,52,Quality Hold,Technician A,Lubricated actuator
+DT-0025,MACH-003,Line-B,2024-01-01 08:00:00,60,Mechanical Failure,Technician B,Reset PLC
+DT-0026,MACH-002,Line-B,2024-01-03 06:00:00,196,Mechanical Failure,Supervisor,Recalibrated sensor
+DT-0027,MACH-003,Line-A,2024-01-04 07:00:00,50,Power Outage,Auto-Recovery,Awaiting parts
+DT-0028,MACH-002,Line-B,2024-01-03 15:00:00,218,Scheduled Maintenance,Technician B,Reset PLC
+DT-0029,MACH-004,Line-B,2024-01-04 00:00:00,183,Mechanical Failure,Supervisor,Reset PLC
+DT-0030,MACH-003,Line-C,2024-01-07 10:00:00,98,Power Outage,Supervisor,Recalibrated sensor
+DT-0031,MACH-005,Line-B,2024-01-03 01:00:00,14,Scheduled Maintenance,Technician B,Recalibrated sensor
+DT-0032,MACH-003,Line-A,2024-01-05 21:00:00,93,Operator Error,Auto-Recovery,Replaced bearing
+DT-0033,MACH-002,Line-B,2024-01-06 17:00:00,202,Scheduled Maintenance,Supervisor,Reset PLC
+DT-0034,MACH-005,Line-C,2024-01-01 14:00:00,34,Quality Hold,Technician B,Awaiting parts
+DT-0035,MACH-005,Line-B,2024-01-02 17:00:00,124,Operator Error,Supervisor,Recalibrated sensor
+DT-0036,MACH-001,Line-B,2024-01-07 12:00:00,235,Quality Hold,Technician A,Recalibrated sensor
+DT-0037,MACH-001,Line-A,2024-01-05 01:00:00,227,Material Shortage,Supervisor,Reset PLC
+DT-0038,MACH-001,Line-A,2024-01-04 20:00:00,170,Operator Error,Auto-Recovery,Lubricated actuator
+DT-0039,MACH-002,Line-A,2024-01-06 05:00:00,144,Material Shortage,Supervisor,Cleared jam
+DT-0040,MACH-004,Line-C,2024-01-07 09:00:00,182,Material Shortage,Supervisor,Lubricated actuator
+DT-0041,MACH-003,Line-C,2024-01-03 22:00:00,190,Operator Error,Supervisor,Recalibrated sensor
+DT-0042,MACH-001,Line-A,2024-01-05 12:00:00,81,Changeover,Technician A,Awaiting parts
+DT-0043,MACH-003,Line-C,2024-01-05 19:00:00,203,Material Shortage,Technician A,Lubricated actuator
+DT-0044,MACH-003,Line-C,2024-01-06 17:00:00,47,Quality Hold,Technician B,Cleared jam
+DT-0045,MACH-003,Line-A,2024-01-02 17:00:00,38,Mechanical Failure,Auto-Recovery,Lubricated actuator
+DT-0046,MACH-004,Line-A,2024-01-04 22:00:00,122,Material Shortage,Technician A,Recalibrated sensor
+DT-0047,MACH-002,Line-B,2024-01-02 19:00:00,56,Operator Error,Technician A,Lubricated actuator
+DT-0048,MACH-002,Line-B,2024-01-03 18:00:00,224,Mechanical Failure,Technician B,Lubricated actuator
+DT-0049,MACH-003,Line-A,2024-01-07 04:00:00,221,Material Shortage,Technician B,Reset PLC
+DT-0050,MACH-005,Line-C,2024-01-02 07:00:00,125,Material Shortage,Technician B,Awaiting parts
+DT-0051,MACH-004,Line-C,2024-01-05 06:00:00,217,Scheduled Maintenance,Technician A,Awaiting parts
+DT-0052,MACH-002,Line-B,2024-01-02 14:00:00,86,Changeover,Auto-Recovery,Reset PLC
+DT-0053,MACH-004,Line-C,2024-01-05 18:00:00,157,Mechanical Failure,Auto-Recovery,Awaiting parts
+DT-0054,MACH-002,Line-C,2024-01-07 12:00:00,11,Scheduled Maintenance,Technician B,Reset PLC
+DT-0055,MACH-005,Line-A,2024-01-05 02:00:00,92,Power Outage,Supervisor,Replaced bearing
+DT-0056,MACH-004,Line-A,2024-01-03 16:00:00,40,Mechanical Failure,Technician B,Reset PLC
+DT-0057,MACH-003,Line-B,2024-01-05 21:00:00,28,Quality Hold,Technician B,Awaiting parts
+DT-0058,MACH-003,Line-B,2024-01-02 20:00:00,77,Quality Hold,Supervisor,Replaced bearing
+DT-0059,MACH-002,Line-A,2024-01-04 00:00:00,112,Material Shortage,Technician A,Awaiting parts
+DT-0060,MACH-001,Line-C,2024-01-02 03:00:00,93,Changeover,Supervisor,Replaced bearing
+DT-0061,MACH-002,Line-C,2024-01-02 23:00:00,86,Power Outage,Supervisor,Recalibrated sensor
+DT-0062,MACH-004,Line-C,2024-01-06 02:00:00,7,Quality Hold,Supervisor,Awaiting parts
+DT-0063,MACH-004,Line-B,2024-01-01 19:00:00,82,Quality Hold,Technician A,Cleared jam
+DT-0064,MACH-003,Line-B,2024-01-06 01:00:00,133,Quality Hold,Auto-Recovery,Cleared jam
+DT-0065,MACH-002,Line-B,2024-01-05 03:00:00,33,Power Outage,Supervisor,Recalibrated sensor
+DT-0066,MACH-001,Line-B,2024-01-02 02:00:00,43,Quality Hold,Auto-Recovery,Lubricated actuator
+DT-0067,MACH-005,Line-C,2024-01-06 17:00:00,213,Changeover,Supervisor,Awaiting parts
+DT-0068,MACH-003,Line-A,2024-01-01 18:00:00,123,Mechanical Failure,Supervisor,Awaiting parts
+DT-0069,MACH-005,Line-C,2024-01-05 03:00:00,17,Operator Error,Auto-Recovery,Awaiting parts
+DT-0070,MACH-003,Line-A,2024-01-04 20:00:00,177,Power Outage,Auto-Recovery,Lubricated actuator
+DT-0071,MACH-004,Line-A,2024-01-04 09:00:00,96,Material Shortage,Auto-Recovery,Reset PLC
+DT-0072,MACH-001,Line-B,2024-01-01 15:00:00,157,Quality Hold,Technician A,Cleared jam
+DT-0073,MACH-002,Line-A,2024-01-05 11:00:00,68,Power Outage,Technician A,Lubricated actuator
+DT-0074,MACH-004,Line-B,2024-01-02 19:00:00,167,Operator Error,Auto-Recovery,Awaiting parts
+DT-0075,MACH-005,Line-C,2024-01-07 20:00:00,67,Material Shortage,Technician A,Replaced bearing
+DT-0076,MACH-001,Line-A,2024-01-04 17:00:00,100,Power Outage,Technician A,Awaiting parts
+DT-0077,MACH-001,Line-B,2024-01-06 17:00:00,190,Quality Hold,Auto-Recovery,Awaiting parts
+DT-0078,MACH-002,Line-C,2024-01-05 12:00:00,10,Operator Error,Technician A,Awaiting parts
+DT-0079,MACH-002,Line-C,2024-01-02 11:00:00,208,Operator Error,Auto-Recovery,Cleared jam
+DT-0080,MACH-002,Line-C,2024-01-06 17:00:00,143,Changeover,Technician A,Reset PLC
+DT-0081,MACH-002,Line-B,2024-01-07 08:00:00,126,Operator Error,Technician B,Reset PLC
+DT-0082,MACH-001,Line-C,2024-01-06 14:00:00,176,Material Shortage,Technician B,Recalibrated sensor
+DT-0083,MACH-001,Line-B,2024-01-04 06:00:00,74,Scheduled Maintenance,Technician A,Awaiting parts
+DT-0084,MACH-003,Line-B,2024-01-02 15:00:00,75,Power Outage,Auto-Recovery,Replaced bearing
+DT-0085,MACH-001,Line-C,2024-01-03 14:00:00,62,Operator Error,Technician B,Replaced bearing
+DT-0086,MACH-005,Line-B,2024-01-07 18:00:00,78,Power Outage,Supervisor,Recalibrated sensor
+DT-0087,MACH-005,Line-B,2024-01-07 14:00:00,89,Material Shortage,Technician A,Reset PLC
+DT-0088,MACH-003,Line-B,2024-01-04 21:00:00,86,Scheduled Maintenance,Supervisor,Recalibrated sensor
+DT-0089,MACH-005,Line-C,2024-01-06 13:00:00,58,Scheduled Maintenance,Supervisor,Reset PLC
+DT-0090,MACH-005,Line-A,2024-01-05 13:00:00,13,Quality Hold,Supervisor,Cleared jam
+DT-0091,MACH-002,Line-C,2024-01-04 22:00:00,26,Power Outage,Auto-Recovery,Reset PLC
+DT-0092,MACH-003,Line-B,2024-01-04 08:00:00,197,Quality Hold,Supervisor,Replaced bearing
+DT-0093,MACH-005,Line-A,2024-01-02 21:00:00,164,Power Outage,Auto-Recovery,Cleared jam
+DT-0094,MACH-001,Line-B,2024-01-05 20:00:00,111,Power Outage,Supervisor,Lubricated actuator
+DT-0095,MACH-005,Line-A,2024-01-05 06:00:00,240,Material Shortage,Technician A,Replaced bearing
+DT-0096,MACH-002,Line-A,2024-01-05 11:00:00,60,Power Outage,Auto-Recovery,Lubricated actuator
+DT-0097,MACH-004,Line-C,2024-01-02 22:00:00,201,Material Shortage,Auto-Recovery,Lubricated actuator
+DT-0098,MACH-005,Line-B,2024-01-05 17:00:00,235,Operator Error,Auto-Recovery,Recalibrated sensor
+DT-0099,MACH-003,Line-C,2024-01-02 09:00:00,175,Power Outage,Supervisor,Lubricated actuator
+DT-0100,MACH-004,Line-B,2024-01-05 13:00:00,131,Changeover,Supervisor,Lubricated actuator
+DT-0101,MACH-003,Line-A,2024-01-03 03:00:00,107,Power Outage,Auto-Recovery,Awaiting parts
+DT-0102,MACH-001,Line-B,2024-01-03 02:00:00,179,Power Outage,Supervisor,Awaiting parts
+DT-0103,MACH-001,Line-C,2024-01-05 15:00:00,53,Scheduled Maintenance,Technician B,Cleared jam
+DT-0104,MACH-001,Line-C,2024-01-07 20:00:00,133,Power Outage,Supervisor,Replaced bearing
+DT-0105,MACH-002,Line-A,2024-01-04 17:00:00,161,Power Outage,Supervisor,Recalibrated sensor
+DT-0106,MACH-001,Line-C,2024-01-02 05:00:00,99,Power Outage,Supervisor,Cleared jam
+DT-0107,MACH-002,Line-A,2024-01-06 16:00:00,226,Material Shortage,Auto-Recovery,Recalibrated sensor
+DT-0108,MACH-004,Line-C,2024-01-03 19:00:00,49,Scheduled Maintenance,Auto-Recovery,Lubricated actuator
+DT-0109,MACH-001,Line-A,2024-01-04 09:00:00,21,Power Outage,Supervisor,Awaiting parts
+DT-0110,MACH-005,Line-B,2024-01-03 20:00:00,180,Scheduled Maintenance,Technician B,Awaiting parts
+DT-0111,MACH-001,Line-C,2024-01-06 14:00:00,169,Changeover,Auto-Recovery,Lubricated actuator
+DT-0112,MACH-001,Line-A,2024-01-03 20:00:00,123,Quality Hold,Technician A,Recalibrated sensor
+DT-0113,MACH-005,Line-B,2024-01-05 14:00:00,226,Changeover,Supervisor,Replaced bearing
+DT-0114,MACH-005,Line-A,2024-01-05 16:00:00,71,Quality Hold,Technician A,Awaiting parts
+DT-0115,MACH-001,Line-B,2024-01-06 09:00:00,216,Changeover,Supervisor,Recalibrated sensor
+DT-0116,MACH-004,Line-C,2024-01-01 16:00:00,98,Power Outage,Supervisor,Awaiting parts
+DT-0117,MACH-002,Line-B,2024-01-02 13:00:00,31,Changeover,Technician A,Recalibrated sensor
+DT-0118,MACH-004,Line-C,2024-01-03 01:00:00,98,Operator Error,Technician B,Lubricated actuator
+DT-0119,MACH-003,Line-A,2024-01-06 09:00:00,58,Operator Error,Technician A,Awaiting parts
+DT-0120,MACH-002,Line-B,2024-01-06 11:00:00,197,Operator Error,Auto-Recovery,Recalibrated sensor
